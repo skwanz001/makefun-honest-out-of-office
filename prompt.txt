@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Catatan: bounty ini "The Painfully Honest Out-of-Office" (u-po-pu-the-painfully-honest-out-of-office-63e7ca0b) — satu balasan out-of-office, satu kalimat, maksimal 200 karakter, jujur menyakitkan soal ketidakhadiran/inbox tapi tetap sopan. Dibangun dengan skill brainstorming (angle) dan make_fun_submission_preflight (preflight), entrypoint stdlib-only, diverifikasi 194 karakter.
